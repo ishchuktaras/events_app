@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const EventsPage = ({ data: any  }) => {
+const EventsPage = ({ data }) => {
   return (
     <div>
       <h1>Event Page</h1>
